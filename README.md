@@ -64,6 +64,6 @@ I built a web-based HR and task management system in Django, covering employee m
 If you're hiring, building something interesting, or want to talk RAG, I'd love to hear from you.
 
 - 📧 Email: abhinavanair4@gmail.com
-- 💼 LinkedIn: linkedin.com/in/abhinav-a-nair-538077356
+- 💼 LinkedIn: https://linkedin.com/in/abhinav-a-nair-538077356
 
 *Based in Kerala, India. Open to remote roles, relocation, and good chai.* ☕
